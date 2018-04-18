@@ -1,2 +1,4 @@
-# progtech1-GY7-HF5
-Jpanel | GUI | JFrame | JButton | swing
+# GUI alapok
+A többi mappa
+## HF:
+Készítsünk egy névjegyet
